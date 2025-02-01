@@ -34,3 +34,4 @@ print(gentleman.invest("startups", 500_000))
 print(gentleman.read("The Art of War"))
 # Aristocode
 Elegant coding in old money style. Minimalism, refinement, and efficiency in every line of code.
+![Vintage Desk with MacBook](https://github.com/Kostereva/Aristocode/blob/main/A_stylish_vintage_desk_with_a_MacBook,_books,_and_.png)
